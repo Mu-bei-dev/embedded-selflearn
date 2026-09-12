@@ -1,0 +1,11 @@
+#编译输出
+*.o
+*.exe
+*.bin
+*.hex
+*.elf
+*.map
+#VS Code缓存
+.vscode/
+#系统文件
+Thumbs.db
